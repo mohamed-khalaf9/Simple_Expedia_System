@@ -15,11 +15,14 @@ So the Journey of this project starts from this implementation and it will ends 
 - Customer User Prespective :
   - View Profile : this feature displays all information about the customer Name,Email And Username.
   - Make Itinerary : this feature allows customer to create Itinerary through this menu :
-      - Add Flight :  From here the system request from user some info about the flight reservation then display all available flights but for now the flights are dummy data because I have used local APIs,after this the custtomer choose  the proper flight .
+      - Add Flight :  From here the system request from user some info about the flight reservation (from date, from , to date, to , number of childrens , adults and infants )then display all available flights but for now the flights are dummy data because I have used local APIs,after this the custtomer choose  the proper flight .
       - Add Hotel : From here the system request from user some info about the start data to check in ,the date of the check out , number of persons, country and city ,then display all available hotel rooms but for now the rooms info are dummy data because I have used local APIs. after this the customer choose the proper room .
       - Done : This feature ask customer do add payments card information then he can choose payment card to pay .finally  the itinerary reservation will be confirmed .
       - Cancel : To Cancel the itinerary reservation and back to the previous menu . 
   - List itineraries: This feature list all itineraries with its all reservations info and the total cost for each itinerary .
   - Logout : This feature Allows customer to logout from his account and back to the start menu .
-    
+# UML (Class Diagram) : 
+ in progress.............................
+# Demo : 
+LinkedIn post : 
 
